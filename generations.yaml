@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Audi_TT"
+
+generations:
+  - name: "Second Generation (8J)"
+    start_year: 2008
+    end_year: 2014
+    description: "The high-performance TT with the 2.0 TFSI EA113 and quattro."
+  - name: "Third Generation (8S)"
+    start_year: 2015
+    end_year: 2023
+    description: "On the MQB platform with the 2.0 TFSI EA888 and quattro."

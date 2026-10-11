@@ -1,0 +1,114 @@
+command_id: 7E0.0170
+test_cases:
+- expected_values:
+    BP_A_ACT: 99.65625
+    BP_A_ACT_SUP: 1
+    BP_A_CMD: 79.375
+    BP_A_CMD_SUP: 0
+    BP_A_SUP: 0
+    BP_B_ACT: 0
+    BP_B_ACT_SUP: 0
+    BP_B_CMD: 0
+    BP_B_CMD_SUP: 0
+    BP_B_SUP: 0
+  response: |-
+    7E8100C41700209EC0C
+    7E821750000000000AA
+- expected_values:
+    BP_A_ACT: 105
+    BP_A_ACT_SUP: 1
+    BP_A_CMD: 80.59375
+    BP_A_CMD_SUP: 0
+    BP_A_SUP: 0
+    BP_B_ACT: 0
+    BP_B_ACT_SUP: 0
+    BP_B_CMD: 0
+    BP_B_CMD_SUP: 0
+    BP_B_SUP: 0
+  response: |-
+    7E8100C4170020A130D
+    7E821200000000000AA
+- expected_values:
+    BP_A_ACT: 101.96875
+    BP_A_ACT_SUP: 1
+    BP_A_CMD: 80.84375
+    BP_A_CMD_SUP: 0
+    BP_A_SUP: 0
+    BP_B_ACT: 0
+    BP_B_ACT_SUP: 0
+    BP_B_CMD: 0
+    BP_B_CMD_SUP: 0
+    BP_B_SUP: 0
+  response: |-
+    7E8100C4170020A1B0C
+    7E821BF0000000000AA
+- expected_values:
+    BP_A_ACT: 103.65625
+    BP_A_ACT_SUP: 1
+    BP_A_CMD: 80.84375
+    BP_A_CMD_SUP: 0
+    BP_A_SUP: 0
+    BP_B_ACT: 0
+    BP_B_ACT_SUP: 0
+    BP_B_CMD: 0
+    BP_B_CMD_SUP: 0
+    BP_B_SUP: 0
+  response: |-
+    7E8100C4170020A1B0C
+    7E821F50000000000AA
+- expected_values:
+    BP_A_ACT: 112
+    BP_A_ACT_SUP: 1
+    BP_A_CMD: 91.625
+    BP_A_CMD_SUP: 0
+    BP_A_SUP: 0
+    BP_B_ACT: 0
+    BP_B_ACT_SUP: 0
+    BP_B_CMD: 0
+    BP_B_CMD_SUP: 0
+    BP_B_SUP: 0
+  response: |-
+    7E8100C4170020B740E
+    7E821000000000000AA
+- expected_values:
+    BP_A_ACT: 132.09375
+    BP_A_ACT_SUP: 1
+    BP_A_CMD: 151.96875
+    BP_A_CMD_SUP: 0
+    BP_A_SUP: 0
+    BP_B_ACT: 0
+    BP_B_ACT_SUP: 0
+    BP_B_CMD: 0
+    BP_B_CMD_SUP: 0
+    BP_B_SUP: 0
+  response: |-
+    7E8100C41700212FF10
+    7E821830000000000AA
+- expected_values:
+    BP_A_ACT: 202.5
+    BP_A_ACT_SUP: 1
+    BP_A_CMD: 208.1875
+    BP_A_CMD_SUP: 0
+    BP_A_SUP: 0
+    BP_B_ACT: 0
+    BP_B_ACT_SUP: 0
+    BP_B_CMD: 0
+    BP_B_CMD_SUP: 0
+    BP_B_SUP: 0
+  response: |-
+    7E8100C4170021A0619
+    7E821500000000000AA
+- expected_values:
+    BP_A_ACT: 237.5625
+    BP_A_ACT_SUP: 1
+    BP_A_CMD: 236.78125
+    BP_A_CMD_SUP: 0
+    BP_A_SUP: 0
+    BP_B_ACT: 0
+    BP_B_ACT_SUP: 0
+    BP_B_CMD: 0
+    BP_B_CMD_SUP: 0
+    BP_B_SUP: 0
+  response: |-
+    7E8100C4170021D991D
+    7E821B20000000000AA

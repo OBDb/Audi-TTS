@@ -1,0 +1,17 @@
+command_id: 7E1.7E9.223887
+test_cases:
+- expected_values:
+    TTS_ODO_TCM_2_HD: 123315.2
+  response: 7E90762388700D11200
+- expected_values:
+    TTS_ODO_TCM_2_HD: 124749
+  response: '7E90762388702091300'
+- expected_values:
+    TTS_ODO_TCM_2_HD: 124467.4
+  response: 7E90762388702FE1200
+- expected_values:
+    TTS_ODO_TCM_2_HD: 124650.8
+  response: 7E9076238872C051300
+- expected_values:
+    TTS_ODO_TCM_2_HD: 124467.1
+  response: 7E907623887FFFD1200

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22295A|din=03
+test_cases:
+- expected_values:
+    TTS_ODO_2: 123191
+  response: 7E80662295A01E137
+- expected_values:
+    TTS_ODO_2: 123647
+  response: 7E80662295A01E2FF
+- expected_values:
+    TTS_ODO_2: 123648
+  response: 7E80662295A01E300
+- expected_values:
+    TTS_ODO_2: 125952
+  response: 7E80662295A01EC00

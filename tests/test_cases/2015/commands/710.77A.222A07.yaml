@@ -1,0 +1,14 @@
+command_id: 710.77A.222A07
+test_cases:
+- expected_values:
+    TTS_SSB_V: 12.015
+  response: 77A05622A071F4F
+- expected_values:
+    TTS_SSB_V: 12.96
+  response: 77A05622A072300
+- expected_values:
+    TTS_SSB_V: 14.238
+  response: 77A05622A0727FE
+- expected_values:
+    TTS_SSB_V: 14.756
+  response: 77A05622A072A04

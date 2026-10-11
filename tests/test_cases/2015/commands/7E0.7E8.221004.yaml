@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221004
+test_cases:
+- expected_values:
+    TTS_AAT_V2: 11.08594
+  response: 7E805621004058B
+- expected_values:
+    TTS_AAT_V2: 12
+  response: '7E8056210040600'
+- expected_values:
+    TTS_AAT_V2: 13.99219
+  response: 7E80562100406FF
+- expected_values:
+    TTS_AAT_V2: 28.95312
+  response: 7E8056210040E7A

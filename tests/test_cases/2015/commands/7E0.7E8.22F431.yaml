@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    TTS_CLR_DIST: 36
+  response: 7E80562F4310024
+- expected_values:
+    TTS_CLR_DIST: 256
+  response: 7E80562F4310100
+- expected_values:
+    TTS_CLR_DIST: 766
+  response: 7E80562F43102FE
+- expected_values:
+    TTS_CLR_DIST: 1305
+  response: 7E80562F4310519

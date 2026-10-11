@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.222062
+test_cases:
+- expected_values:
+    TTS_APP_POS2: 0.361
+  response: '7E8056220620169'
+- expected_values:
+    TTS_APP_POS2: 0.767
+  response: 7E80562206202FF
+- expected_values:
+    TTS_APP_POS2: 1.792
+  response: '7E8056220620700'
+- expected_values:
+    TTS_APP_POS2: 2.129
+  response: '7E8056220620851'
