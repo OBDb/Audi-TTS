@@ -1,0 +1,20 @@
+command_id: 710.77A.222A0E
+test_cases:
+- expected_values:
+    TTS_SSB_RES_INT: 4
+  response: 77A04622A0E14
+- expected_values:
+    TTS_SSB_RES_INT: 4.2
+  response: 77A04622A0E15
+- expected_values:
+    TTS_SSB_RES_INT: 4.4
+  response: 77A04622A0E16
+- expected_values:
+    TTS_SSB_RES_INT: 4.6
+  response: 77A04622A0E17
+- expected_values:
+    TTS_SSB_RES_INT: 4.8
+  response: 77A04622A0E18
+- expected_values:
+    TTS_SSB_RES_INT: -0.2
+  response: 77A04622A0EFF
